@@ -17,3 +17,11 @@ npm start
 ```
 npm build
 ```
+
+# Références
+
+https://github.com/eggheadio-projects/egghead-react-router-v4
+
+https://reacttraining.com/react-router/
+
+https://swapi.co/
